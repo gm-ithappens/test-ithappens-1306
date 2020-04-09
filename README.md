@@ -1,7 +1,6 @@
-# Seletivo 1306 - It Happens - POKEMON API
+# Seletivo 1306 - It Happens - PokeAPI
 
-O objetivo desse desafio é desenvolver uma aplicação web onde a função do usuário é cuidar de necessidades básicas dos seus Pokémons.
-Então, o usuário tem como função, alimentar cada um dos seus Pokémons e capturar novos quando possibilitado.
+O objetivo desse desafio é desenvolver uma aplicação web onde o usuário deverá listar os pokémons e suas informações.
 
 Para isso deverá utilizar as informações provenientes da API pública https://pokeapi.co.
 
@@ -15,8 +14,8 @@ A API possui todas as informações necessárias para construção do desafio.
 
 ## Passos:
 
-* Faça um Fork deste respositório.
-* Quando finalizar o teste faça um pull request.
+* Faça um _Fork_ deste repositório.
+* Quando finalizar o teste faça um _Pull Request_ com o seu nome e descrição breve.
 * Aguarde os próximos passos.
 
 ## Stack obrigatória e critérios de avaliação
